@@ -1,3 +1,5 @@
+Forking to use the app as a staarting point for reading mission data from the journal.
+
 # Elite: Dangerous Journal Pipeline
 
 End to end system to pipe events from one or several Elite: Dangerous journals into a database for real time consumption.
